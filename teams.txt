@@ -1,13 +1,11 @@
 # Seed Group 1:
-1 A	CMmus
-1 B ER-Force
-1 C ZJUNlict
-1 D RoboDragons
-1 E TIGERS_Mannheim
-1 F Immortals
+1 A	ZJUNlict
+1 B TIGERS_Mannheim
+1 C ER-Force
+1 D MRL
 
 # Seed Group 2:
+2 E RoboDragons
+2 F RoboTeam_Twente
 2 G KIKS
-2 H UMass_MinuteBots
-2 I RoboTeam_Twente
-2 J DUMMY
+2 H OP-AmP
