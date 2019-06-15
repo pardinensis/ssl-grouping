@@ -1,11 +1,13 @@
 # Seed Group 1:
-1 A	ZJUNlict
-1 B TIGERS_Mannheim
-1 C ER-Force
-1 D MRL
+1 A	NEUIslanders
+1 B RoboIME
+1 C UBC_Thunderbots
+1 D ULtron
 
 # Seed Group 2:
-2 E RoboDragons
-2 F RoboTeam_Twente
-2 G KIKS
-2 H OP-AmP
+2 E RoboJackets
+2 F RoboFEI
+2 G MCT_Susano_Logics
+2 H nAMeC
+2 I RoboCIn
+2 J URoboRus
